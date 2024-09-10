@@ -1,0 +1,6 @@
+xspips.c
+xspips_g.c
+xspips_hw.c
+xspips_options.c
+xspips_selftest.c
+xspips_sinit.c

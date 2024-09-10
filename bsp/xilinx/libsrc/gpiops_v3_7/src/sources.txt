@@ -1,0 +1,6 @@
+xgpiops.c
+xgpiops_g.c
+xgpiops_hw.c
+xgpiops_intr.c
+xgpiops_selftest.c
+xgpiops_sinit.c

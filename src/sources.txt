@@ -1,0 +1,8 @@
+main.c
+iic_phyreset.c
+echo.c
+dummy.c
+elfload.c
+tftp.c
+tftp_boot.s
+elfreloc_aarch64.c

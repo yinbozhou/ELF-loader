@@ -1,0 +1,8 @@
+#ifndef BOOT_CONFIG
+#define BOOT_CONFIG
+
+
+#define MAC_ETHERNET_ADDRESS { 0x0A, 0x0A, 0x00, 0x00, 0x00, 0x01 }
+#define BOOT_ADDRESS 0x40000000
+
+#endif /* BOOT_CONFIG */

@@ -1,0 +1,6 @@
+xscugic.c
+xscugic_g.c
+xscugic_hw.c
+xscugic_intr.c
+xscugic_selftest.c
+xscugic_sinit.c

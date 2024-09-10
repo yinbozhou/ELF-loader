@@ -1,0 +1,5 @@
+xvidc.c
+xvidc_edid.c
+xvidc_edid_ext.c
+xvidc_parse_edid.c
+xvidc_timings_table.c

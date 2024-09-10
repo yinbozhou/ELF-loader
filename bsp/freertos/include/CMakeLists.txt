@@ -1,0 +1,2 @@
+file(GLOB HEADERS "*.h")
+set(HEADERS ${HEADERS} PARENT_SCOPE)

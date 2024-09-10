@@ -1,0 +1,8 @@
+xclockps.c
+xclockps_divider.c
+xclockps_fixedfactor.c
+xclockps_gate.c
+xclockps_g.c
+xclockps_mux.c
+xclockps_pll.c
+xclockps_sinit.c

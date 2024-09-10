@@ -1,0 +1,10 @@
+xiicps.c
+xiicps_g.c
+xiicps_hw.c
+xiicps_intr.c
+xiicps_master.c
+xiicps_options.c
+xiicps_selftest.c
+xiicps_sinit.c
+xiicps_slave.c
+xiicps_xfer.c

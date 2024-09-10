@@ -1,0 +1,8 @@
+add_subdirectory(ipv4)
+set(ipv4 ${SRC})
+add_subdirectory(ipv6)
+set(ipv6 ${SRC})
+file(GLOB SRC "*.c")
+list(APPEND SRC ${ipv4})
+list(APPEND SRC ${ipv6})
+set(SRC ${SRC} PARENT_SCOPE)

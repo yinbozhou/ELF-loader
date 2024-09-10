@@ -1,0 +1,5 @@
+xzdma.c
+xzdma_g.c
+xzdma_intr.c
+xzdma_selftest.c
+xzdma_sinit.c
